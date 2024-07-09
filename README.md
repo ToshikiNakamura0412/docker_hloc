@@ -22,9 +22,9 @@ docker compose up -d
 ```
 
 ### Demo
-Execute the following command in the container with vscode
+Execute the following command in the container with **VSCode**
 ```bash
-python3 demo.py
+python3 ~/ws/demo.py
 ```
 
 ### Stop
